@@ -61,7 +61,7 @@ Eeldame kõigilt austavat ja kaasavat suhtlust. Meie kogukonnas ei ole kohta dis
 
 ## 📝 Litsents
 
-Materjal on avaldatud [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) litsentsi alusel. Oma panusega nõustud, et sinu muudatused on selle litsentsi all jagatavad.
+Materjal on avaldatud [CC BY SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode.et) litsentsi alusel. Oma panusega nõustud, et sinu muudatused on selle litsentsi all jagatavad.
 
 ---
 

@@ -1,6 +1,9 @@
 # Õppevara pealkiri
 Siia õppevara lühikirjeldus
 
+## Õpieesmärgid
+Õppija vaatest lähtuvalt.
+
 ## Õpiväljundid
 Materjali edukalt läbinud õppija:
 * väljund 1
